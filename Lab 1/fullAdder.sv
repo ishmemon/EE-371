@@ -1,3 +1,4 @@
+//Attribution: This file was contributed by the UW Electrical Engineering faculty.
 /* A 1-bit adder with carry-in and carry-out.
  * 
  * Inputs:
