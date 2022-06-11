@@ -1,3 +1,4 @@
+//Attribution: This file was contributed by the UW Electrical Engineering Faculty.
 /* Register file module for specified data and address bus widths.
  * synchronous read port (r_addr -> r_data) and synchronous write
  * port (w_data -> w_addr if w_en). I think they both should be synch
