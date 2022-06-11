@@ -1,3 +1,4 @@
+//Attribution: This file was contributed by the UW Electrical Engineering Faculty.
 /* FIFO controller to manage a register file as a circular queue.
  * Manipulates output read and write addresses based on 1-bit 
  * read (rd) and write (wr) requests and current buffer status
