@@ -1,3 +1,4 @@
+//Attribution: This file was based on a similar file created by the UW Electrical Engineering faculty.
 //This module is here to be the replacement of ram32x3 in task 2 so I can use all 
 //the same code from task1 file just change one word
 module task2mem (address, clock, data, wren, q);
