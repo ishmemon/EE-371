@@ -1,5 +1,5 @@
-/* This code was directly from the course website (HW 3) we just changed the logic 
-field widths. 
+/* Attribution: This file was contributed by the UW Electrical Engineering Faculty.
+
 FIFO buffer FWFT implementation for specified data and address
  * bus widths based on internal register file and FIFO controller.
  * Inputs: 1-bit rd removes head of buffer and 1-bit wr writes
