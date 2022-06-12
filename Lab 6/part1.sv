@@ -1,4 +1,4 @@
-//Attribution: This file was contributed by the UW Electrical Engineering Faculty.
+//Attribution: This file was adapted from the file contributed by the UW Electrical Engineering Faculty.
 module part1 (CLOCK_50, CLOCK2_50, KEY, FPGA_I2C_SCLK, FPGA_I2C_SDAT, AUD_XCK, 
 		        AUD_DACLRCK, AUD_ADCLRCK, AUD_BCLK, AUD_ADCDAT, AUD_DACDAT);
 
