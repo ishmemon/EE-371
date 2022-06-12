@@ -1,4 +1,4 @@
- //Module to build flop. Directly from ee 271 file.
+ //Module to build flop. 
  module flop(q, d, clk, Reset);
 	output logic q;
 	input logic d;
