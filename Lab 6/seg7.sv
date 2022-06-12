@@ -1,3 +1,4 @@
+//Attribution: This file was contributed by the UW Electrical Engineering Faculty.
 /* Basic 7-segment display driver for hex digits 0-F.
  * Takes 4-bit input hex and outputs 7-bit leds.
  * LED segments are active low:
