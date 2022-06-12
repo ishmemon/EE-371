@@ -1,5 +1,3 @@
-//This will be top level it contains both task 1 and 2 code and a swithc input that 
-//allows switch 9 to control the two.
 module DE1_SoC (CLOCK_50, CLOCK2_50, KEY, FPGA_I2C_SCLK, FPGA_I2C_SDAT, AUD_XCK, 
 		        AUD_DACLRCK, AUD_ADCLRCK, AUD_BCLK, AUD_ADCDAT, AUD_DACDAT, SW,
 				  HEX0, HEX1, HEX2, HEX3, HEX4, HEX5, LEDR,
@@ -38,9 +36,6 @@ module DE1_SoC (CLOCK_50, CLOCK2_50, KEY, FPGA_I2C_SCLK, FPGA_I2C_SDAT, AUD_XCK,
 	logic [23:0] writedata_left, writedata_right;
 	wire reset = ~KEY[0];
 
-	/////////////////////////////////
-	// Your code goes here 
-	/////////////////////////////////
 	
 	//Clock divider algorithm copied form 271
 	logic [31:0] divided;
