@@ -1,3 +1,4 @@
+//Attribution: This file was contributed by the UW Electrical Engineering Faculty.
 module video_driver
 	#(parameter WIDTH = 640, parameter HEIGHT = 480)
 	(CLOCK_50, reset, x, y, r, g, b, VGA_R, VGA_G, VGA_B, VGA_BLANK_N, VGA_CLK, VGA_HS, VGA_SYNC_N, VGA_VS); 
