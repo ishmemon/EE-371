@@ -1,3 +1,4 @@
+//Attribution: This file was contributed by the UW Electrical Engineering Faculty.
 /*
  * Black-and-white VGA Framebuffer
  * 640 X 480 VGA timing for a 50 MHz clock: one pixel every other cycle
